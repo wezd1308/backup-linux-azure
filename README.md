@@ -11,9 +11,8 @@ Implementado en mi laboratorio personal para practicar integración entre entorn
 - Permite programar la ejecución mediante cron.
 
 Contenido
-- `docs/procedimiento-backup-linux-azure.pdf`: Guía paso a paso.
-- `scripts/`: Scripts de respaldo y carga.
-- `examples/`: Archivos de ejemplo de configuración.
+- documento pdf Guía paso a paso.
+- scripts
 
 ## Requisitos
 - Linux (probado en Ubuntu/Debian)
