@@ -17,6 +17,7 @@ Contenido
 ## Requisitos
 - Linux (probado en Ubuntu/Debian)
 - azure-cli instalado
+- Cuenta de almacenamiento en Azure
 - Claves de acceso a Azure Storage
 
 
