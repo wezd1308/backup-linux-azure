@@ -11,6 +11,7 @@ Implementado en mi laboratorio personal para practicar integración entre entorn
 - Permite programar la ejecución mediante cron.
 
 Contenido
+
 docs/Backup-Linux-to-Azure.pdf 
 scripts/
 
