@@ -19,8 +19,4 @@ Contenido
 - azure-cli instalado
 - Claves de acceso a Azure Storage
 
-## Uso
-1. Configurar las variables en `examples/ejemplo-configuracion.env`
-2. Ejecutar el script de respaldo:
-   ```bash
-   bash scripts/backup.sh
+
